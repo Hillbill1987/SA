@@ -1,0 +1,9 @@
+D:\SoftwareA\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.deps.json
+D:\SoftwareA\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+D:\SoftwareA\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+D:\SoftwareA\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\SoftwareA\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfo.cs
+D:\SoftwareA\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.dll
+D:\SoftwareA\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.pdb
+D:\SoftwareA\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\SoftwareA\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csprojAssemblyReference.cache

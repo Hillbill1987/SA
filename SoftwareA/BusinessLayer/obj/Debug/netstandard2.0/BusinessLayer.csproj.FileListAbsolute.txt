@@ -1,0 +1,5 @@
+D:\SoftwareA\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.deps.json
+D:\SoftwareA\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.dll
+D:\SoftwareA\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csprojAssemblyReference.cache
+D:\SoftwareA\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\SoftwareA\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfo.cs

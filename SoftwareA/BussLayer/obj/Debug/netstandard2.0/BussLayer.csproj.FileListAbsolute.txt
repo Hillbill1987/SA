@@ -1,0 +1,12 @@
+D:\SoftwareA\BussLayer\bin\Debug\netstandard2.0\BussLayer.deps.json
+D:\SoftwareA\BussLayer\bin\Debug\netstandard2.0\BussLayer.dll
+D:\SoftwareA\BussLayer\bin\Debug\netstandard2.0\BussLayer.pdb
+D:\SoftwareA\BussLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+D:\SoftwareA\BussLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+D:\SoftwareA\BussLayer\obj\Debug\netstandard2.0\BussLayer.csprojAssemblyReference.cache
+D:\SoftwareA\BussLayer\obj\Debug\netstandard2.0\BussLayer.AssemblyInfoInputs.cache
+D:\SoftwareA\BussLayer\obj\Debug\netstandard2.0\BussLayer.AssemblyInfo.cs
+D:\SoftwareA\BussLayer\obj\Debug\netstandard2.0\BussLayer.csproj.CopyComplete
+D:\SoftwareA\BussLayer\obj\Debug\netstandard2.0\BussLayer.dll
+D:\SoftwareA\BussLayer\obj\Debug\netstandard2.0\BussLayer.pdb
+D:\SoftwareA\BussLayer\obj\Debug\netstandard2.0\BussLayer.csproj.CoreCompileInputs.cache
