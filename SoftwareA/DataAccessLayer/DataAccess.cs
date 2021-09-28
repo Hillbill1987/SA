@@ -52,6 +52,8 @@ namespace DataAccessLayer
             cmd.CommandText = "spDelete";
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.ExecuteNonQuery();
+
+            // test this
         }
 
         public void Insert_datac(SqlCommand cmd)
